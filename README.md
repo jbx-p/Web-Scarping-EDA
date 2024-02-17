@@ -1,4 +1,4 @@
-# Web Scarping EDA
+# Web Scarping & EDA
 
  In this project, we focus on SaaS (Software as a Service) companies operating in Egypt. Our goal is to extract data from the website "https://getlatka.com/companies/countries/egypt" to collect information about the revenue of these companies. By performing EDA on the scraped data, we aim to gain insights into the revenue distribution, market trends, and key players in the SaaS industry in Egypt.
 
